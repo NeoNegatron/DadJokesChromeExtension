@@ -1,0 +1,16 @@
+body{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 254, 253);
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    border-radius: 6px;
+    padding: 10px;
+    font-size: larger;
+    margin: auto;
+}
